@@ -15,6 +15,26 @@
 
 I created a comprehensive project using Microsoft Excel, analysing video game sales across various regions. The process includes exploratory data analysis and data visualisation.
 
+The dataset is a csv file with 16598 rows and 11 columns
+The columns are as follows: 
+
+Rank - Ranking of overall sales
+
+Name - The games name
+
+Platform - Platform of the games release (i.e. PC,PS4, etc.)
+
+Year - Year of the game's release
+
+Genre - Genre of the game
+
+Publisher - Publisher of the game
+
+NA_Sales - Sales in North America (in millions)
+
+EU_Sales - Sales in Europe (in millions)
+
+
 <img width="477" height="536" alt="Screenshot 2025-11-17 at 02 10 46" src="https://github.com/user-attachments/assets/81f28778-ba53-41e4-97d0-e5f54b58d876" />
 
 ### Data Source ️
